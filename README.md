@@ -1,7 +1,5 @@
  <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(1).pdf" style="text-decoration:none;">SQL Server 2016 Reporting Services Cookbook </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(2).pdf" style="text-decoration:none;">Fundamentals of Relational Database Management Systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(3).pdf" style="text-decoration:none;"Database System Concepts</a></b></li>
+
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(4).pdf" style="text-decoration:none;">Oracle PL/SQL Programming</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(5).pdf" style="text-decoration:none;">Microsoft SQL Azure: Enterprise Application Development</a></b></li>
