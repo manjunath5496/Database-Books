@@ -35,17 +35,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(3).pdf" style="text-decoration:none;"Database System Concepts</a></b></li>
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(21).pdf" style="text-decoration:none;"> Java: The Complete Reference </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(21).pdf" style="text-decoration:none;"> Java: The Complete Reference </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(22).pdf" style="text-decoration:none;">Jumping into C++</a></b></li>
 
