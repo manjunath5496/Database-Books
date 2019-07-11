@@ -77,6 +77,9 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Database-Books/blob/master/db(46).pdf" style="text-decoration:none;">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Database-Books/blob/master/db(47).pdf" style="text-decoration:none;">Database Development for Dummies</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Database-Books/blob/master/db(48).pdf" style="text-decoration:none;">Pro SQL Server Internals</a></b></li> 
 
 
 
